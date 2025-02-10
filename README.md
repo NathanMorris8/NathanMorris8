@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Student currently interested in AI and Machine Learning, CyberSecurity, and Information Technology. I am currently working on a Full Stack Website that uses Python and FastAPI. I am interested on working on projects that are designed to help people's lives and are practical.
+I'm a Computer Science Student at SDSU, currently interested in Machine Learning, CyberSecurity, and Information Technology. I am currently working on a Full Stack Website that uses Python and FastAPI. I am interested on working on projects that are designed to help people's lives and are practical.
 
 ### 🚀 What I Do:
 - **Machine Learning Researcher**: Exploring **drug-target affinity prediction** using **BERT embeddings** and neural networks.
